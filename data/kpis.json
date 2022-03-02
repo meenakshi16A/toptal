@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sales",
+    "subkpis":["6218a9357f0f14a94c3eecd1","6218a9357f0f14a94c3eecd2"]
+  },
+  {
+    "name": "Marketing",
+    "subkpis":["6218a9357f0f14a94c3eecd3","6218a9357f0f14a94c3eecd4"]
+  },
+  {
+    "name": "Finance",
+    "subkpis":["6218a9357f0f14a94c3eecd3","6218a9357f0f14a94c3eecd4"]
+  },
+  {
+    "name": "Development",
+    "subkpis":["6218a9357f0f14a94c3eecd4","6218a9357f0f14a94c3eecd5"]
+  },
+  {
+    "name": "Data",
+    "subkpis":["6218a9357f0f14a94c3eecd5","6218a9357f0f14a94c3eecd1"]
+  }
+]

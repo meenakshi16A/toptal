@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sales",
+    "subcategory":["621cbcf77418d41da88f5a36","621cbcf77418d41da88f5a37"]
+  },
+  {
+    "name": "Marketing",
+    "subcategory":["621cbcf77418d41da88f5a37","621cbcf77418d41da88f5a38"]
+  },
+  {
+    "name": "Finance",
+    "subcategory":["621cbcf77418d41da88f5a37","621cbcf77418d41da88f5a39"]
+  },
+  {
+    "name": "Development",
+    "subcategory":["621cbcf77418d41da88f5a37","621cbcf77418d41da88f5a38"]
+  },
+  {
+    "name": "Data",
+    "subcategory":["621cbcf77418d41da88f5a36","621cbcf77418d41da88f5a39"]
+  }
+]
